@@ -48,7 +48,7 @@
 
 ```sh
 
-   cd PayloadCreator-Dialog
+  cd PayloadCreator-Dialog
 
 ```
 
@@ -56,7 +56,7 @@
 
 ```sh
 
-   bash cre_pay.sh
+  bash cre_pay.sh
 
 ```
 
@@ -70,8 +70,8 @@ https://github.com/error404-notfound
 
 <!-- MarkDown Links & Images -->
 
-[version]: https://img.shields.io/badge/Version-BETA%3A%20V.1.0-red
+[version]: https://img.shields.io/badge/Version-BETA%3A%20V.1.0-yellow
 
 [tested]: https://img.shields.io/badge/Tested-Kali%20Linux%20%7C%20Parrot%20Sec%20%7C%20Termux-blue
 
-[autor]: https://img.shields.io/badge/Author-%40Developers404-green
+[autor]: https://img.shields.io/badge/Author-%40Developers404-red
