@@ -4,9 +4,9 @@
 
 <br><hr>
 
+![autor]
 ![version]
 ![Tested]
-![autor]
 
 
 [![paga](https://img.shields.io/badge/Dona/Apoya-Aquí-green.svg)](https://www.paypal.me/th3pr3d4t0r)
@@ -74,4 +74,4 @@ https://github.com/error404-notfound
 
 [tested]: https://img.shields.io/badge/Tested-Kali%20Linux%20%7C%20Parrot%20Sec%20%7C%20Termux-blue
 
-[autor]: https://img.shields.io/badge/Author-%40Th3__Pr3d4t0r-green
+[autor]: https://img.shields.io/badge/Author-%40Developers-404-green
