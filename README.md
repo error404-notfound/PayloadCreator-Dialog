@@ -23,7 +23,7 @@
 
 <hr>
 
-<h1><img src="https://64.media.tumblr.com/ea0117a5e5e6e40bfd1b725ffe664300/tumblr_mid4nqtb3y1rdpopao1_500.gif" width="80">Características:</h1>
+<h1><img src="https://64.media.tumblr.com/ea0117a5e5e6e40bfd1b725ffe664300/tumblr_mid4nqtb3y1rdpopao1_500.gif" width="40">Características:</h1>
 
  * <b>Funcionalidad</b>: Plantillas disponibles para mejores resultados
   
