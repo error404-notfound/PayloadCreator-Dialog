@@ -1,7 +1,7 @@
 <h1 align="center"> <i> Payload Creator </i> </h1>
 
 <p align="center"><img src="https://i.ibb.co/hmFJf36/msf-bot.png" alt="ICON" align="center" border="0" width="400" height="auto"></p>
-<br><hr>
+<hr>
 
 ![autor]
 ![version]
