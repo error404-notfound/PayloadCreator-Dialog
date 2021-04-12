@@ -74,4 +74,4 @@ https://github.com/error404-notfound
 
 [tested]: https://img.shields.io/badge/Tested-Kali%20Linux%20%7C%20Parrot%20Sec%20%7C%20Termux-blue
 
-[autor]: https://img.shields.io/badge/Author-%40Developers-404-green
+[autor]: https://img.shields.io/badge/Author-%40Developers404-green
